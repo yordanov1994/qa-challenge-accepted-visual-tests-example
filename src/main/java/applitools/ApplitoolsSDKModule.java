@@ -20,7 +20,7 @@ public class ApplitoolsSDKModule {
     private Eyes eyes;
 
     // Set applitools key
-    private String apiKey = "ZBXS1p1BZI7MHTHsk6zFMVjKhlsipnEkl8QXwZYkDE0110";
+    private String apiKey = "TYPE_APPLITOOLS_KEY_HERE";
 
     // Set applitools instance if you use private setup
     private static final String APPLITOOLS_URI = "https://eyes.applitools.com";
