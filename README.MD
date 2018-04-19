@@ -1,1 +1,2 @@
-You can run the test
+You can find more information about running the project below:
+* ....
