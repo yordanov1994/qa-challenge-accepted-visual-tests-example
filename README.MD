@@ -16,7 +16,7 @@ You can follow guidelines from this tutorial - https://www.joecolantonio.com/201
 
 ### Generate Aplitools API Key
 
-1. Create free trial acaunt in https://applitools.com/
+1. Create free trial account in https://applitools.com/
 2. Generate Aplitools key from My API key section 
     e.g. - n3KVFlXQlicT4wO2txO101D6R133zCDd1pb0AnDubUTX0110
 
